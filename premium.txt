@@ -10,6 +10,6 @@ vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@nl-tx.sbrf-cdn342.ru:443?flow=xtls-
 
 vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@de.sbrf-cdn342.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&sni=sub.sbrf-cdn342.ru&alpn=http/1.1&fp=qq&allowInsecure=0#🇩🇪 Германия | @halyava_vpnx
 
-vless://3f1c4154-4103-4136-a109-2bbd729648c5@46.226.162.205:51177?type=tcp&headerType=none&security=reality&fp=chrome&sni=teamdocs.su&pbk=o5VKcEfjPXonAjUJYSk2Rznv0wHjkFEHlVZtcUwVsQE&sid=5ed6&spx=/#🇬🇧 Великобритания | @halyava_vpnx
+vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@est-def.sbrf-cdn342.ru:443?security=tls&sni=sub.sbrf-cdn342.ru&type=tcp&flow=xtls-rprx-vision&encryption=none#🇪🇪 Эстония | @halyava_vpnx
 
-vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@at.sbrf-cdn342.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&sni=sub.sbrf-cdn342.ru&fp=chrome&allowInsecure=0#🇦🇹 Австрия | @halyava_vpnx
+vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@fi-g.sbrf-cdn342.ru:443?security=tls&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http%2F1.1&type=tcp&flow=xtls-rprx-vision&encryption=none#🇫🇮 Финляндия | @halyava_vpnx
