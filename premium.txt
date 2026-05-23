@@ -17,3 +17,4 @@ vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@it-bridge.sbrf-cdn342.ru:443?securi
 vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@fi-g.sbrf-cdn342.ru:443?security=tls&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http%2F1.1&type=tcp&flow=xtls-rprx-vision&encryption=none#🇫🇮 Финляндия | @halyava_vpnx
 
 vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@fr-tx.sbrf-cdn342.ru:443?security=tls&sni=sub.sbrf-cdn342.ru&type=tcp&flow=xtls-rprx-vision&encryption=none#🇫🇷 Франция | @halyava_vpnx
+ 
